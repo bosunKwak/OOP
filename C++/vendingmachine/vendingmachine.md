@@ -1,4 +1,4 @@
-A vending machine controller: BASIC REQUIREMENTS
+# A vending machine controller: BASIC REQUIREMENTS
 
 
 + Input:
@@ -36,3 +36,18 @@ A vending machine controller: BASIC REQUIREMENTS
 
 
 + Select items you favor and complete the requirements with your additional functionality.
+
+
+## My vending machine controller
+
+`class diagram`
+
+<img width="390" alt="OOP과제1 (1)" src="https://user-images.githubusercontent.com/87002218/125167295-c63def80-e1da-11eb-94a2-aa9dea30dd69.PNG">
+
+`activity diagram`
+
+<img width="309" alt="OOP과제1 (2)" src="https://user-images.githubusercontent.com/87002218/125167379-2339a580-e1db-11eb-8906-d0211fb06c6e.PNG">
+
+`sequence diagram`
+
+<img width="307" alt="OOP과제1 (3)" src="https://user-images.githubusercontent.com/87002218/125167391-32b8ee80-e1db-11eb-9814-b7a0b97aeb5c.PNG">
