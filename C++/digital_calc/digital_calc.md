@@ -1,4 +1,4 @@
-# 디지털 계산기 프로그램 만들기 (캡슐화, 정보 숨기기 등과 같은 OOP 정책 유지)
+### 디지털 계산기 프로그램 만들기 (캡슐화, 정보 숨기기 등과 같은 OOP 정책 유지)
 
 클래스 simpleCalc로 디지털 계산기 추상화 (simpleCalc class는 int a, b 및 c를 가지고 있으며, 두 변수의 작동을 위한 add/subtract method를 가지고 있음)
 1) add method 안에서, ‘정수+정수’ 사용
